@@ -1,5 +1,5 @@
 # EZYrunner
-EZY Roblox SCRIPT
+EZY Roblox SCRIPT (WORK IN PROGRESS MORE COMING SOON)
 
 ------------------------------------------------
 
@@ -24,3 +24,6 @@ OWNER IS NOT RESPONSIBLE IF YOU DOWNLOAD THE FILE FROM AN UNKOWN PUBLISHER
 YOU HAVE BEEN WARNED!
 
 --------------------------------------------------------------------------------------.
+
+![Capture](https://user-images.githubusercontent.com/113174861/189339450-2a2792c7-508b-42fa-95ff-73362a22bf3b.PNG)
+
