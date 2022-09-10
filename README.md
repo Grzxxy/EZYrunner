@@ -11,7 +11,7 @@ HOW TO USE
 
 2. OPEN THE .py FILE
 
-3. ENJOY (MADE BY Grzxxy#0069)
+3. MAKE SURE U HAVE PYTHON INSTALLED
 
 ------------------------------------------------
 
